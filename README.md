@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wafiya Mulla</h1>
 <h3 align="center">An Enthusiastic Learner from India</h3>
+[![An image of @wafmulla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wafmulla)](https://holopin.io/@wafmulla)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
